@@ -1,0 +1,14 @@
+{
+	"color_scheme": "Packages/RubyBlue.tmBundle/Themes/RubyBlue.tmTheme",
+	"detect_slow_plugins": false,
+	"font_face": "Menlo",
+	"font_size": 12.0,
+	"ignored_packages":
+	[
+		"Vintage",
+		"Drupal Project Autocomplete",
+		"SublimeLinter",
+		"SublimeCodeIntel"
+	],
+	"theme": "Soda Dark.sublime-theme"
+}

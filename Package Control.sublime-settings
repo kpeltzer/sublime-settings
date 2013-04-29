@@ -1,0 +1,26 @@
+{
+	"auto_upgrade_last_run": null,
+	"installed_packages":
+	[
+		"Additional PHP Snippets",
+		"Auto Semi-Colon",
+		"BracketHighlighter",
+		"CoffeeScript",
+		"DocBlockr",
+		"Drupal Project Autocomplete",
+		"Drupal Snippets",
+		"Git",
+		"Jade",
+		"Package Control",
+		"Phpcs",
+		"Pretty JSON",
+		"Sass",
+		"SideBarEnhancements",
+		"SideBarGit",
+		"Stylus",
+		"SublimeCodeIntel",
+		"SublimeLinter",
+		"SyncedSideBar",
+		"Theme - Soda"
+	]
+}
